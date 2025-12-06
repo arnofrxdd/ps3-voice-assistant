@@ -109,6 +109,10 @@ This is early-stage and still experimental:
 If you run into bugs — you’re not alone. There’s plenty to improve.
 
 ---
+## 🙌 Credits
+
+- **webMAN MOD** by [aldostools](https://github.com/aldostools/webman-mod/)  
+  This project depends on webMAN MOD for all PS3 HTTP/game control.
 
 ## 🤝 Want to Help?
 
@@ -126,3 +130,4 @@ I’d **love** to collaborate.
 Open an issue, submit a PR, or reach out — happy to build this together ❤️
 
 Enjoy talking to your PS3! 😄
+
